@@ -19,4 +19,4 @@ def main():
 
 # 変更しました14:12
 if __name__ == "__main__":
-    main()
+    print('こんにちは')
